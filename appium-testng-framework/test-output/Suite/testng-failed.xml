@@ -5,7 +5,7 @@
     <classes>
       <class name="test_login.Login_test">
         <methods>
-          <include name="loginTest_Im"/>
+          <include name="MultipleRun"/>
         </methods>
       </class> <!-- test_login.Login_test -->
     </classes>

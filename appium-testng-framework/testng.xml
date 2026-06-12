@@ -5,10 +5,15 @@
   <classes>
   <class name ="test_login.Login_test">
   <methods>
-  <include name="loginTest_Im"/>
-  <exclude name="CheckToken"/>
+  <exclude name="loginTest_Im"/>
+  <include name="MultipleRun"/>
   </methods>
   </class>
+ <!-- <class name="test_login.Login_POSPush">
+  <methods>
+  <include name="Login"/>
+  </methods>
+  </class>-->
   </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
